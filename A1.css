@@ -1,0 +1,121 @@
+
+.box-container{
+    display: grid;
+  }
+
+#page-1{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: fixed;
+
+  }
+
+#title-page1{
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(0, 83, 94);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-color: #cf2929;
+    
+
+  }
+
+#iium-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    
+  }
+
+#p1 {
+    margin-top: 40px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 40px;
+    font-style: italic;
+    color:rgb(236, 98, 6);
+
+  }
+
+#perpetual {
+    color:rgb(236, 98, 6);
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Brush Script MT', cursive;
+ 
+  }
+
+.text {
+    text-align: center;
+  }
+  
+#p2 {
+    font-weight:lighter;
+    font-family:sans-serif;
+    color: white;
+  }
+
+  
+
+
+
+ 
+
+section {
+    background-color: rgb(83, 139, 143);
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    background-color: #c6d7da;
+}
+
+button {
+    background-color: rgb(0, 30, 75);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cf2929;
+}
+
+div.a {
+    line-height: 110%;
+  }
+  
+  footer {
+    background-color: whitesmoke;
+    padding: 5px;
+    text-align:center;
+    
+  
+}
+
+  
